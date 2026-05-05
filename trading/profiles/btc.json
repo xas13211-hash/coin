@@ -1,0 +1,11 @@
+{
+  "buy_threshold": 5.5,
+  "risk_pct": 2.0,
+  "atr_stop_mult": 2.0,
+  "tp2_r": 2.0,
+  "require_mtf": true,
+  "use_trailing": true,
+  "max_trades": 3,
+  "daily_loss_limit": 1.0,
+  "updated_at": "2026-05-05T22:55:06.274334"
+}
